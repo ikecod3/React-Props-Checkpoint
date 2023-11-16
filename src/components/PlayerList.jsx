@@ -1,7 +1,7 @@
 // import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Player from "./Player";
-import { players } from "./Players";
+import { players } from "./players";
 
 const PlayerList = () => {
   return (
