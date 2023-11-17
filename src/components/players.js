@@ -72,7 +72,7 @@ export const players = [
   {
     id: 8,
     name: "Aitana Bonmati",
-    team: "Bercelona",
+    team: "Barcelona",
     nationality: "Spain",
     jerseyNumber: "14",
     age: "25",
